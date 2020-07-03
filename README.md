@@ -1,2 +1,3 @@
 # AnZReviews
- AnZ Reviews
+  Added the new repository to github
+  Connected to horoku
